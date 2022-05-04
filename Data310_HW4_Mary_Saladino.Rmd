@@ -2,6 +2,7 @@
 Title: "Homework"
 output: html_document
 ---
+
 ```{r, include=F}
 # install.packages("socviz")
 library(socviz)
@@ -16,6 +17,7 @@ library(ggthemes)
 theme_set(theme_minimal())
 ```
 
+Question 1
 
 ```{r, warning = F, message = F}
 
