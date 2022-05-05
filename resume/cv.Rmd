@@ -32,8 +32,11 @@ library(stringi)
 library(fontawesome)
 
 
+#### publications #####
+publications <- read.csv("_content/publications.csv")
+
 #### all other entries #####
-cv_entries <- read.csv("_content//cv_entries2.csv") %>%
+cv_entries <- read.csv("C://Users//mksal//OneDrive//Documents//DANL 310//mcs18.github.io//resume//_content//cv_entries2.csv") %>%
   mutate(year_begin = year(date)) %>%
   mutate(year_end = case_when(
     date_end == "present" ~ date_end,
@@ -78,7 +81,7 @@ Here is my [curriculum vitae `r fa("fas fa-file-pdf", fill = "red")`](Resume 202
 
 
 ::: {}
-![](MK_photo.jpg){width=125%}
+![](MK_photo.jpg){width=75%}
 :::
 
 ::::
