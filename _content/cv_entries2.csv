@@ -1,12 +1,12 @@
 type,exclude,date,date_end,what,what_translation,institution,department,where,additional_info,additional_info2,url,slides,video,short_cv,order,academic,professional_2_page,website,one_column_paged,brief_no_pubs,humanities,humanities_description
-education,NA,2018-08-26,2022-05-21,Bachelors in Business Administration,NA,NA,NA,SUNY Geneseo,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-Experiences,NA,2021-06-01,2021-08-15,Licenced Sales Associate,NA,NA,NA,Stephanie Sgroi State Farm Agency,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-Experiences,NA,2022-01-20,2022-05-21,Directed Study,NA,NA,NA,"Suny Geneseo Data Analytics Capstone Course, SUNY Geneseo",NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-Experiences,NA,2020-01-20,2020-05-21,Directed Study,NA,NA,NA,"Market Research, SUNY Geneseo ",NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-Experiences,NA,2018-05-01,2020-08-15,Waitress,NA,NA,NA,Setauket Villiage Diner,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-Experiences,NA,2019-06-01,2019-08-10,Camp Counselor,NA,NA,NA,Furture Stars Summer Camp,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-College Activities,NA,2018-08-18,2022-05-21,Student Athlete,NA,NA,NA,"Women's Volleyball, SUNY Geneseo",NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-College Activities,NA,2022-01-25,2022-05-21,Peer Advisor,NA,NA,NA,SUNY Geneseo School of Business Peer Advisor Program,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-College Activities,NA,2019-08-26,2021-05-20,Women's Volleyball Representative/Social Media Committee,NA,NA,NA,SUNY Geneseo Student Athlete Advisory Committee (SAAC),NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-College Activities,NA,2018-08-25,2022-05-21,Certificate Recipient,NA,NA,NA,Geneseo Opportunities for Leadership Development Program,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
-College Activities,NA,2021-08-25,2022-05-21,Work Study,NA,NA,NA,SUNY Geneseo Event Manager,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+education,NA,2018-08-26,2022-05-21,State University of New York College at Geneseo,NA,NA,NA,Bachelor of Science in Business Administration with a minor in Data Analytics,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+Experiences,NA,2021-06-01,2021-08-15,"Stephanie Sgroi’s State Farm Agency, Port Jefferson Station, NY",NA,NA,NA,LICENSED SALES ASSOCIATE INTERN,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+Experiences,NA,2022-01-20,2022-05-21,"Suny Geneseo Data Analytics Capstone Course, Geneseo, NY",NA,NA,NA,DIRECTED STUDY,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+Experiences,NA,2020-01-20,2020-05-21,"Suny Geneseo Market Research, Geneseo, NY",NA,NA,NA,DIRECTED STUDY,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+Experiences,NA,2018-05-01,2020-08-15,"The Setauket Village Diner, Setauket, NY",NA,NA,NA,WAITRESS SUMMERS AND BREAKS,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+Experiences,NA,2019-06-01,2019-08-10,"Future Stars Summer Camp, Farmingdale, NY",NA,NA,NA,CAMP COUNSELOR,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+College Activities,NA,2018-08-18,2022-05-21,"SUNY Geneseo Women’s Volleyball, Geneseo, NY",NA,NA,NA,"DIVISION III NCAA STUDENT ATHLETE, CAPTAIN, 3 TIME SECOND PLACE WINNER IN THE SUNYAC",NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+College Activities,NA,2022-01-25,2022-05-21,"SUNY Geneseo School of Business Peer Advisor Program, Geneseo, NY",NA,NA,NA,PEER ADVISOR,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+College Activities,NA,2019-08-26,2021-05-20,"SUNY Geneseo Student Athlete Advisory Committee (SAAC), Geneseo, NY",NA,NA,NA,WOMEN’S VOLLEYBALL REPRESENTATIVE/SOCIAL MEDIA COMMITTEE,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+College Activities,NA,2018-08-25,2022-05-21,"Geneseo Opportunities for Leadership Development Program, Geneseo, NY",NA,NA,NA,CERTIFICATE RECIPIENT,NA,NA,NA,NA,NA,y,NA,NA,NA,NA,NA,NA,NA,NA
+College Activities,NA,2021-08-25,2022-05-21,"SUNY Geneseo Event Manager, Geneseo, NY",NA,NA,NA,WORK STUDY,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

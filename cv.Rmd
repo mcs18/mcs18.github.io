@@ -78,7 +78,7 @@ Here is my [curriculum vitae `r fa("fas fa-file-pdf", fill = "red")`](Resume 202
 
 
 ::: {}
-![](MK_photo.jpg){width=125%}
+![](MK_photo.jpg){width=400%}
 :::
 
 ::::
